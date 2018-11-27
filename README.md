@@ -15,5 +15,5 @@ Abaixo, encontram-se os links dos questionários relacionados à aulas de jogos 
 
 <p><a href="https://www.escolagames.com.br/jogos/vooEducativo/?deviceType=mobile" target="_blank"> Jogo do 1º ano</a></p>
            
-<p><a href="http://lightbot.com/flash.html" target="_blank"> Jogo do 1º ano</a></p>
+<p><a href="http://lightbot.com/flash.html" target="_blank"> Lightbot</a></p>
            
